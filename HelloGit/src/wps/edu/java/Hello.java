@@ -4,6 +4,12 @@ public class Hello {
 
 	
 	public void hello(){
-		System.out.println("Hello This is a change");
+		System.out.println("today is thanksgiving");
 	}
+	
+	public int sum() {
+		return 2;
+	}
+	
+	
 }
