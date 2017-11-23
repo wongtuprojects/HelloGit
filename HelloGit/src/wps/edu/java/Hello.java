@@ -4,7 +4,7 @@ public class Hello {
 
 	
 	public void hello(){
-		System.out.println("I have changed test scenarios");
+		System.out.println("today is thanksgiving");
 	}
 	
 	public int sum() {
